@@ -55,7 +55,7 @@ const Footer = () => {
             rel="noopener noreferrer"
             className="text-palette-side underline font-bold bg-palette-primary px-2"
           >
-            CafeDX
+            
           </a>
         </div>
       </div>

@@ -37,7 +37,7 @@ const About: NextPage = () => {
             rel="noopener noreferrer"
             className="text-palette-side underline font-bold bg-palette-primary px-2"
           >
-            CafeDX
+            
           </a>
         </p>
         <p className="my-4">{t.aboutEnjoy}</p>

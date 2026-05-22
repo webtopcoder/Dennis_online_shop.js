@@ -50,7 +50,7 @@ const Footer = () => {
           />
           &nbsp;
           <a
-            href="https://cafedx.com/"
+            href="https://.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-palette-side underline font-bold bg-palette-primary px-2"
