@@ -1,5 +1,5 @@
 const fa: { [key: string]: string } = {
-  mainPage: "صفحه اصلی ZiShop",
+  mainPage: "صفحه اصلی Dennis",
   search: "جستجو",
   login: "ورود",
   signIn: "ثبت‌نام",
@@ -140,10 +140,10 @@ const fa: { [key: string]: string } = {
   romanoDescription:
     "مبل راحتی رومانو زیبایی چشم گیری دارد و می تواند جذابیت دکوراسیون منزل شما را چند برابر کند.",
   popularBrands: "برندهای محبوب",
-  zishopMap: "نقشه Zishop",
+  DennisMap: "نقشه Dennis",
   aboutUs: "دربارۀ ما",
   contactUs: "تماس با ما",
-  saleInZishop: "فروش در Zishop",
+  saleInDennis: "فروش در Dennis",
   careerOpportunities: "فرصت‌های شغلی",
   customerServices: "خدمات مشتریان",
   commonQuestions: "سؤالات متداول",
