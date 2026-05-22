@@ -237,9 +237,10 @@ const en: { [key: string]: string } = {
   Invalid_email_or_password: "Invalid email or password",
   Email_already_exists: "Email already exists",
   aboutLongText:
-    "The ZShop store template was written to consolidate my front-end knowledge, using technologies such as Nextjs, Typescript, React, Tailwindcss, etc. as a portfolio. I would like to thank CafeDX and engineer Seyed Mehdi Hasanpour for his support.",
+    // "The ZShop store template was written to consolidate my front-end knowledge, using technologies such as Nextjs, Typescript, React, Tailwindcss, etc. as a portfolio. I would like to thank CafeDX and engineer Seyed Mehdi Hasanpour for his support.",
+    "We are all here.",
   aboutEnjoy: "I hope you enjoy watching and working with this template.",
-  myName: "Zahra Mirzaei",
+  myName: "dennis stephens.",
   cafeDX: "Work is meant to improve life, not the opposite.",
   productAddedToCartMsg: "Product added to cart successfully",
 };
